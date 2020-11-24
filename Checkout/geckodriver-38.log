@@ -1,0 +1,16 @@
+1606211422053	geckodriver	INFO	Listening on 127.0.0.1:51114
+1606211425107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AE322~1.SAL\\AppData\\Local\\Temp\\rust_mozprofilecNllIo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1606211429397	Marionette	INFO	Listening on port 51123
+1606211429921	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://assets.asosservices.com/shared/require.7c30e08a.js, line 2: Error: Module name "jquery" has not been loaded yet for context: _. Use require([])
+http://requirejs.org/docs/errors.html#notloaded
+JavaScript error: https://s.btstatic.com/lib/203a0853239abc7b83dbc5a79032ee43e4a76396.js?v=2, line 27: ReferenceError: Signal is not defined
+JavaScript error: https://s.btstatic.com/lib/44fd9a4a54394c5ca8b27a5b5378ce90b4ea767c.js?v=2, line 18: ReferenceError: Signal is not defined
+JavaScript error: https://assets.asosservices.com/shared/require.7c30e08a.js, line 2: Error: Module name "jquery" has not been loaded yet for context: _. Use require([])
+http://requirejs.org/docs/errors.html#notloaded
+JavaScript error: https://s.btstatic.com/lib/203a0853239abc7b83dbc5a79032ee43e4a76396.js?v=2, line 27: ReferenceError: Signal is not defined
+JavaScript error: https://s.btstatic.com/lib/44fd9a4a54394c5ca8b27a5b5378ce90b4ea767c.js?v=2, line 18: ReferenceError: Signal is not defined
